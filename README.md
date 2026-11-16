@@ -1,19 +1,17 @@
-
-<div align="center">
+ <div align="center" id="top">
 
   <!-- MAIN GRAPHICAL HEADER BANNER -->
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF87,100:60A5FA&height=220&section=header&text=GARVIT%20GHAI&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20%7C%20AI-Native%20Engineer%20%7C%20Systems&descSize=16&descAlignY=62&descColor=00FF87&animation=fadeIn" alt="Garvit Ghai Banner" />
 
   <br/>
 
-  <!-- QUICK TAGLINE -->
   <p align="center">
     <b>Software Engineer (B.Tech CSE '26)</b> &nbsp;•&nbsp; <b>Ghaziabad, UP, India</b>
     <br/>
     🚀 <i>Building high-throughput real-time systems & AI-accelerated web products.</i>
   </p>
 
-  <!-- DIRECT 1-CLICK SOCIAL LINKS -->
+  <!-- SOCIAL LINKS -->
   <a href="mailto:garvitghai880@gmail.com">
     <img src="https://img.shields.io/badge/Email-garvitghai880%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
@@ -29,11 +27,27 @@
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Neetworm&label=PROFILE+VIEWS&color=00FF87&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Neetworm&label=PROFILE+VIEWS&color=00FF87&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
+
+<!-- QUICK NAVIGATION -->
+
+<div align="center">
+
+  <a href="#quick-summary">ABOUT</a> &nbsp;•&nbsp;
+  <a href="#tech-stack">TECH STACK</a> &nbsp;•&nbsp;
+  <a href="#featured-showcase">PROJECTS</a> &nbsp;•&nbsp;
+  <a href="#experience">EXPERIENCE</a> &nbsp;•&nbsp;
+  <a href="#github-analytics">ANALYTICS</a>
+
+</div>
+
+---
+
+<a id="quick-summary"></a>
 
 ### ⚡ QUICK SUMMARY
 
@@ -48,7 +62,31 @@ key_builds:
 stack_focus: Node.js, React, Docker, WebSockets, MongoDB, PostgreSQL, AI Dev Tools
 ```
 
+### ⚙️ ENGINEERING FOCUS
+
+<table width="100%">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h3>⚡</h3>
+      <b>Full-Stack Engineering</b>
+      <p><sub>Building end-to-end web applications, REST APIs and scalable backend services.</sub></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🔄</h3>
+      <b>Real-Time Systems</b>
+      <p><sub>Collaborative applications, WebSocket communication and synchronized state.</sub></p>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h3>🤖</h3>
+      <b>AI-Native Development</b>
+      <p><sub>Integrating AI-assisted workflows into modern software development.</sub></p>
+    </td>
+  </tr>
+</table>
+
 ---
+
+<a id="tech-stack"></a>
 
 ### 🛠️ TECH STACK & AI WORKFLOW
 
@@ -64,6 +102,8 @@ stack_focus: Node.js, React, Docker, WebSockets, MongoDB, PostgreSQL, AI Dev Too
 </div>
 
 ---
+
+<a id="featured-showcase"></a>
 
 ### 💡 FEATURED SHOWCASE
 
@@ -112,6 +152,8 @@ stack_focus: Node.js, React, Docker, WebSockets, MongoDB, PostgreSQL, AI Dev Too
 
 ---
 
+<a id="experience"></a>
+
 ### 💼 EXPERIENCE
 
 #### 🚀 **Full Stack Developer Intern** — *Altrusian Computer*
@@ -123,6 +165,8 @@ stack_focus: Node.js, React, Docker, WebSockets, MongoDB, PostgreSQL, AI Dev Too
 - Participated in architecture decisions, code reviews, and Agile release cycles.
 
 ---
+
+<a id="github-analytics"></a>
 
 ### 📊 GITHUB ANALYTICS
 
@@ -149,8 +193,6 @@ stack_focus: Node.js, React, Docker, WebSockets, MongoDB, PostgreSQL, AI Dev Too
 
 </div>
 
-
-
 ---
 
 ### 🐍 CONTRIBUTION SNAKE
@@ -161,13 +203,24 @@ stack_focus: Node.js, React, Docker, WebSockets, MongoDB, PostgreSQL, AI Dev Too
 
 </div>
 
-
-
 ---
 
 <div align="center">
 
+  <h3>🤝 LET'S CONNECT & BUILD SOMETHING GREAT</h3>
+
+  <a href="mailto:garvitghai880@gmail.com">
+    <img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-00FF87?style=for-the-badge&logo=gmail&logoColor=black" alt="Open to Opportunities" />
+  </a>
+
+  <br/><br/>
+
   <p><i>"Engineered for speed. Built to scale."</i></p>
-  <sub>Crafted by <b>Garvit Ghai</b></sub>
+
+  <sub>Crafted with ☕ by <b>Garvit Ghai</b></sub>
+
+  <br/><br/>
+
+  <a href="#top">⬆ Back to Top</a>
 
 </div>
