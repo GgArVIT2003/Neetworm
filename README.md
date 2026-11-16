@@ -143,6 +143,16 @@ stack_focus: Node.js, React, Docker, WebSockets, MongoDB, PostgreSQL, AI Dev Too
 </div>
 
 
+---
+
+### 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+  <img src="https://raw.githubusercontent.com/Neetworm/Neetworm/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+
+</div>
+
 
 
 ---
