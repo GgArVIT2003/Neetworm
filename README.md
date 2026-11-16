@@ -126,17 +126,21 @@ stack_focus: Node.js, React, Docker, WebSockets, MongoDB, PostgreSQL, AI Dev Too
 
 
 
+
 ### 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/cards/profile-details.svg" />
-<img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/cards/stats.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
 
-<img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/cards/top-languages.svg" />
-<img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/cards/productive-time.svg" />
+  <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages" />
+
+  <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/profile-summary-card-output/github_dark/5-profile-details.svg" alt="Profile Details" />
+
+  <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
 
 </div>
+
 
 
 ---
