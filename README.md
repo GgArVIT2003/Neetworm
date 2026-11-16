@@ -1,153 +1,259 @@
-<div align="center">
+ <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4af626,100:1e1e1e&height=250&section=header&text=Garvit%20Ghai&fontSize=80&fontColor=ffffff&animation=fadeIn&desc=Backend%20%26%20Systems%20Engineer&descAlignY=75&descAlign=62" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,50:071A16,100:0D1117&height=260&section=header&text=GARVIT%20GHAI&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20%7C%20SYSTEMS%20%7C%20CLOUD&descSize=17&descAlignY=58&descColor=00FF87&animation=fadeIn" alt="Garvit Ghai Header" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=4AF626&center=true&vCenter=true&width=600&lines=Backend+%26+Systems+Engineer;Real-Time+Architecture;Cloud+Infrastructure;MERN+%2B+Docker+Enthusiast;Building+Highly+Concurrent+Systems)](https://git.io/typing-svg)
+  <br/>
 
-  <p><b>Driven by building highly concurrent systems, scalable databases, and seamless cloud environments.</b></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00FF87&center=true&vCenter=true&width=650&height=55&lines=Building+systems+that+scale.;Engineering+real-time+experiences.;Turning+complexity+into+clean+architecture.;Backend+%7C+Distributed+Systems+%7C+Cloud." alt="Typing animation" />
 
-  <!-- Social Links -->
-  <a href="https://www.linkedin.com/in/garvit-ghai-80638828a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/u/LuffyD2001/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/garvitghai"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="mailto:garvitghai880@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <p><b>Backend-focused Software Engineer | B.Tech Computer Science, 2026</b></p>
 
-  <br><br>
-  <!-- Visitor Badge -->
-  <img src="https://komarev.com/ghpvc/?username=Neetworm_124&label=Profile%20Views&color=4af626&style=flat-square" alt="Visitor Count" />
+  <p>
+    I build scalable backend systems, real-time applications and cloud-powered developer tools.
+    <br/>
+    Interested in distributed systems, system design, databases and infrastructure.
+  </p>
+
+  <br/>
+
+  <a href="https://www.linkedin.com/in/garvit-ghai-80638828a">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/LuffyD2001/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.hackerrank.com/garvitghai">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+  </a>
+  <a href="mailto:garvitghai880@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=Neetworm&label=PROFILE+VIEWS&color=00FF87&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## `01` / ABOUT ME
 
-I am a **Backend-Focused Software Engineer** (B.Tech CSE, 2026) with a strong foundation in designing decoupled router networks, managing stateful WebSockets, and optimizing application data flows. 
+```yaml
+name: Garvit Ghai
+role: Backend-Focused Software Engineer
+education: B.Tech Computer Science Engineering
+graduation: 2026
 
-- 🔭 **Currently working on:** Advanced backend architecture, Docker containerization, and real-time collaboration engines (CodeCollab & Flagship).
-- ⚡ **Core technical philosophy:** Minimize architectural friction, enforce query-level data isolation, and build things from scratch.
-- 🥇 **Achievements:** 5-Star Java Programmer on HackerRank | DSA & Python Certified.
-- 🌱 **Learning:** System Design tailored for scalable enterprise applications.
+interests:
+  - Backend Engineering
+  - Distributed Systems
+  - System Design
+  - Real-Time Architecture
+  - Cloud Infrastructure
+
+currently_exploring:
+  - Docker and containerization
+  - Scalable backend architecture
+  - Database optimization
+  - Distributed application design
+```
+
+- Building **CodeCollab**, a real-time collaborative cloud IDE.
+- Developing backend services, REST APIs and WebSocket-based systems.
+- Interested in designing reliable systems with clean architecture and efficient data flows.
+- **Achievement:** 5-Star Java Programmer on HackerRank.
 
 ---
 
-## 🧰 Technical Arsenal
+## `02` / TECHNICAL STACK
 
 <div align="center">
-  <p><strong>Languages & Core</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,js,python,html,css&theme=dark" alt="Languages" />
-  </a>
-  <br><br>
-  <p><strong>Backend, Databases & Cloud</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis,docker,aws&theme=dark" alt="Backend and Cloud" />
-  </a>
-  <br><br>
-  <p><strong>Tools & Architecture</strong></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,react,vite,vercel&theme=dark" alt="Tools" />
-  </a>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java,js,python&theme=dark" alt="Programming Languages" />
+
+### Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend Technologies" />
+
+### Databases & Infrastructure
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,docker&theme=dark" alt="Databases and Infrastructure" />
+
+### Frontend & Developer Tools
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,git,github,postman,vercel&theme=dark" alt="Frontend and Tools" />
+
 </div>
 
 ---
 
-## 🚀 Flagship Projects
+## `03` / FEATURED PROJECTS
 
 <table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">💻 <a href="https://github.com/Neetworm_124/CollaborativeIDE">CodeCollab IDE</a></h3>
-      <p><strong>Real-Time Collaborative Cloud Workspace</strong></p>
-      <ul>
-        <li><strong>Performance:</strong> Achieved sub-150ms bidirectional synchronization latency using Socket.IO rooms.</li>
-        <li><strong>Security:</strong> Remote code execution engine using Docker sandboxing to isolate compilations. JWT & GitHub OAuth for auth.</li>
-        <li><strong>Architecture:</strong> Node.js, Express, MongoDB Atlas, React/Vite. File payloads offloaded to AWS S3.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">🚩 <a href="https://github.com/Neetworm_124">Flagship</a></h3>
-      <p><strong>Feature Flag & Experimentation Platform</strong></p>
-      <ul>
-        <li><strong>Core Engine:</strong> Built with React, Node.js, and Express.</li>
-        <li><strong>Data & Queues:</strong> PostgreSQL for relational data mapping and Redis + BullMQ for asynchronous queue processing.</li>
-        <li><strong>Impact:</strong> Enables seamless A/B testing and conditional feature rollouts for production applications.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">🛡️ <a href="https://github.com/Neetworm_124">ToxyClean</a></h3>
-      <p><strong>Asynchronous Content Moderation System</strong></p>
-      <ul>
-        <li><strong>ML Integration:</strong> Chrome extension utilizing TF-IDF, Logistic Regression, and DistilBERT models.</li>
-        <li><strong>Training:</strong> Models trained on 50,000 comments to detect and filter online text toxicity.</li>
-        <li><strong>Backend:</strong> Node.js asynchronous request handling to prevent thread blocking during evaluations.</li>
-      </ul>
-    </td>
-    <td width="50%">
-      <h3 align="center">📄 <a href="https://github.com/Neetworm_124">ElevateU+</a></h3>
-      <p><strong>Automated Resume Parsing Engine</strong></p>
-      <ul>
-        <li><strong>Stack:</strong> Full-stack application utilizing React.js, Node.js, Express.js, and MySQL.</li>
-        <li><strong>Workflow:</strong> Modular backend routes to handle file intake, processing, and automated scoring workflows.</li>
-        <li><strong>Optimization:</strong> Refined MySQL querying protocols to improve database retrieval speed.</li>
-      </ul>
-    </td>
-  </tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>💻 CodeCollab IDE</h3>
+
+**Real-Time Collaborative Cloud IDE**
+
+A cloud-based development environment where multiple developers can write, edit and execute code together.
+
+- Real-time synchronization using Socket.IO rooms.
+- Sub-150ms synchronization latency.
+- JWT authentication and GitHub OAuth.
+- Docker-based execution isolation.
+- MongoDB Atlas and AWS S3 integration.
+
+**Stack:** React · Node.js · Express · Socket.IO · MongoDB · AWS S3 · Docker
+
+<br/>
+
+<a href="https://github.com/Neetworm/CollaborativeIDE">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF87?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🚩 Flagship</h3>
+
+**Feature Flag & Experimentation Platform**
+
+A platform designed to manage feature releases and experimentation through controlled rollouts.
+
+- Feature flag management.
+- Conditional feature rollouts.
+- PostgreSQL relational data management.
+- Redis and BullMQ asynchronous processing.
+- Backend services built with Node.js and Express.
+
+**Stack:** React · Node.js · Express · PostgreSQL · Redis · BullMQ
+
+<br/>
+
+<a href="https://github.com/Neetworm">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF87?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🛡️ ToxyClean</h3>
+
+**AI-Powered Content Moderation System**
+
+A browser-based content moderation solution combining machine learning and backend services.
+
+- Chrome extension for content filtering.
+- TF-IDF and Logistic Regression.
+- DistilBERT model integration.
+- Trained on 50,000 comments.
+- Asynchronous Node.js request processing.
+
+**Stack:** Python · NLP · JavaScript · Node.js · DistilBERT
+
+<br/>
+
+<a href="https://github.com/Neetworm">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF87?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>📄 ElevateU+</h3>
+
+**AI-Powered Resume Intelligence Platform**
+
+A full-stack application designed to process resumes and support automated candidate evaluation.
+
+- Resume intake and processing workflows.
+- Modular backend API architecture.
+- Automated scoring workflows.
+- MySQL query optimization.
+
+**Stack:** React · Node.js · Express · MySQL
+
+<br/>
+
+<a href="https://github.com/Neetworm">
+  <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF87?style=for-the-badge&logo=github&logoColor=black" />
+</a>
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 💼 Professional Experience
+## `04` / PROFESSIONAL EXPERIENCE
 
-> **Full-Stack Developer Intern | Altrusian Computer** *(April 2026 - September 2026)*
-> - Engineered backend features using React.js, Node.js, and Express.js with robust RESTful APIs.
-> - Built secure database layers and enforced strict role-based authorization via custom middleware layouts.
+### Full-Stack Developer Intern
 
-> **Software Development Intern | TALENVY** *(May 2025 - July 2025)*
-> - Developed and tested complete REST API lifecycles using Node.js and Express.
-> - Debugged cross-stack data flow issues and participated in core feature implementation.
+**Altrusian Computer** · April 2026 – September 2026
 
----
+- Engineered backend features using React.js, Node.js and Express.js.
+- Developed RESTful APIs and secure database layers.
+- Implemented role-based authorization through custom middleware.
 
-## 📈 GitHub Analytics
+### Software Development Intern
 
-<div align="center">
-  <!-- GitHub Trophies -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Neetworm_124&theme=radical&no-frame=true&no-bg=true&margin-w=15&column=7" alt="Trophies" />
-  </a>
-</div>
+**TALENVY** · May 2025 – July 2025
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Neetworm_124&show_icons=true&theme=react&bg_color=1e1e1e&title_color=4af626&text_color=ffffff&border_color=333333&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neetworm_124&theme=react&background=1e1e1e&ring=4af626&fire=4af626&currStreakLabel=4af626&sideLabels=ffffff&sideNums=ffffff&currStreakNum=ffffff&border=1e1e1e&stroke=1e1e1e" width="48%" alt="GitHub Streak" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neetworm_124&layout=compact&theme=react&bg_color=1e1e1e&title_color=4af626&text_color=ffffff&border_color=333333&hide_border=true" width="48%" alt="Top Languages" />
-</div>
+- Developed and tested REST API lifecycles using Node.js and Express.
+- Debugged cross-stack data flow issues.
+- Contributed to implementation and testing of application features.
 
 ---
 
-### 🐍 Contribution Activity
+## `05` / GITHUB STATISTICS
 
 <div align="center">
-  <!-- Note: To make this snake animation work, you need to set up a GitHub Action. Instructions below. -->
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Neetworm&show_icons=true&theme=transparent&hide_border=true&title_color=00FF87&icon_color=00FF87&text_color=FFFFFF&include_all_commits=true" alt="GitHub Stats" />
+
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Neetworm&theme=transparent&hide_border=true&ring=00FF87&fire=00FF87&currStreakLabel=00FF87&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
+
+  <br/><br/>
+
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neetworm&layout=compact&theme=transparent&hide_border=true&title_color=00FF87&text_color=FFFFFF" alt="Top Languages" />
+
+</div>
+
+---
+
+## `06` / CONTRIBUTION ACTIVITY
+
+<div align="center">
+
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neetworm_124/Neetworm_124/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neetworm_124/Neetworm_124/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Neetworm_124/Neetworm_124/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neetworm/Neetworm/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neetworm/Neetworm/output/github-contribution-grid-snake.svg" />
+    <img width="100%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
   </picture>
+
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <p><i>"Moving development environments to the cloud and building systems that handle concurrency seamlessly."</i></p>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=footer" width="100%" />
+
+  <h3>Building beyond the code.</h3>
+
+  <p><i>Designing systems. Solving problems. Engineering what comes next.</i></p>
+
+  <img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-00FF87?style=for-the-badge&labelColor=0D1117" />
+
+  <br/><br/>
+
+  <sub>Thanks for visiting my profile! ⭐</sub>
+
 </div>
