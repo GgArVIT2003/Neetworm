@@ -1,241 +1,163 @@
  <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,50:071A16,100:0D1117&height=260&section=header&text=GARVIT%20GHAI&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=BACKEND%20%7C%20SYSTEMS%20%7C%20CLOUD&descSize=17&descAlignY=58&descColor=00FF87&animation=fadeIn" alt="Garvit Ghai Header" />
+  <!-- HEADER BANNER -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,40:0D9488,100:2563EB&height=240&section=header&text=GARVIT%20GHAI&fontSize=60&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20%26%20AI-Native%20Software%20Engineer&descSize=18&descAlignY=58&descColor=5EEAD4&animation=fadeIn" alt="Garvit Ghai Banner" />
 
   <br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=900&color=00FF87&center=true&vCenter=true&width=650&height=55&lines=Building+systems+that+scale.;Engineering+real-time+experiences.;Turning+complexity+into+clean+architecture.;Backend+%7C+Distributed+Systems+%7C+Cloud." alt="Typing animation" />
+  <!-- TYPING SUBTITLE -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=1000&color=5EEAD4&center=true&vCenter=true&width=700&height=50&lines=Full-Stack+%26+AI-Native+Development;Architecting+Sub-150ms+Real-Time+Systems;Engineered+CodeCollab+(Docker-Sandboxed+IDE);Available+For+Immediate+Joining+%F0%9F%9A%80" alt="Typing Animation" />
+  </a>
 
-  <p><b>Backend-focused Software Engineer | B.Tech Computer Science, 2026</b></p>
-
-  <p>
-    I build scalable backend systems, real-time applications and cloud-powered developer tools.
-    <br/>
-    Interested in distributed systems, system design, databases and infrastructure.
+  <p align="center">
+    <b>B.Tech CSE '26 @ JUET</b> &nbsp;•&nbsp; <b>Ghaziabad, UP, India</b> &nbsp;•&nbsp; <b>Immediate Joiner</b>
   </p>
 
-  <br/>
-
-  <a href="https://www.linkedin.com/in/garvit-ghai-80638828a">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/LuffyD2001/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://www.hackerrank.com/garvitghai">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
-  </a>
+  <!-- QUICK ACTION BADGES -->
   <a href="mailto:garvitghai880@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-garvitghai880%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/garvit-ghai-80638828a" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Garvit%20Ghai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://leetcode.com/u/LuffyD2001/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/garvitghai" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-5%E2%9B%85%20Java-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Neetworm&label=PROFILE+VIEWS&color=00FF87&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Neetworm&label=PROFILE+VIEWS&color=0D9488&style=flat-square" alt="Profile Views" />
 
 </div>
 
 ---
 
-## `01` / ABOUT ME
+## ⚡ `01` // DEV OVERVIEW
 
-```yaml
-name: Garvit Ghai
-role: Backend-Focused Software Engineer
-education: B.Tech Computer Science Engineering
-graduation: 2026
-
-interests:
-  - Backend Engineering
-  - Distributed Systems
-  - System Design
-  - Real-Time Architecture
-  - Cloud Infrastructure
-
-currently_exploring:
-  - Docker and containerization
-  - Scalable backend architecture
-  - Database optimization
-  - Distributed application design
+```typescript
+const garvitGhai = {
+  status: "Available For Immediate Joining 🚀",
+  education: "B.Tech Computer Science Engineering (JUET, 2022–2026)",
+  coreFocus: "Full-Stack Architecture, Real-Time WebSockets & AI-Assisted Dev",
+  aiWorkflows: ["Cursor", "GitHub Copilot", "Claude"],
+  engineeringHighlights: [
+    "Engineered CodeCollab: Production IDE with sub-150ms Socket.IO sync",
+    "Built Docker-sandboxed execution isolation across 4 language runtimes",
+    "Optimized relational (PostgreSQL/MySQL) & NoSQL (MongoDB) databases",
+  ]
+};
 ```
 
-- Building **CodeCollab**, a real-time collaborative cloud IDE.
-- Developing backend services, REST APIs and WebSocket-based systems.
-- Interested in designing reliable systems with clean architecture and efficient data flows.
-- **Achievement:** 5-Star Java Programmer on HackerRank.
-
 ---
 
-## `02` / TECHNICAL STACK
+## 🛠️ `02` // TECHNICAL STACK
 
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,java,js,python&theme=dark" alt="Programming Languages" />
-
-### Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi&theme=dark" alt="Backend Technologies" />
-
-### Databases & Infrastructure
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,aws,docker&theme=dark" alt="Databases and Infrastructure" />
-
-### Frontend & Developer Tools
-
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,git,github,postman,vercel&theme=dark" alt="Frontend and Tools" />
-
-</div>
-
----
-
-## `03` / FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>💻 CodeCollab IDE</h3>
-
-**Real-Time Collaborative Cloud IDE**
-
-A cloud-based development environment where multiple developers can write, edit and execute code together.
-
-- Real-time synchronization using Socket.IO rooms.
-- Sub-150ms synchronization latency.
-- JWT authentication and GitHub OAuth.
-- Docker-based execution isolation.
-- MongoDB Atlas and AWS S3 integration.
-
-**Stack:** React · Node.js · Express · Socket.IO · MongoDB · AWS S3 · Docker
-
-<br/>
-
-<a href="https://github.com/Neetworm/CollaborativeIDE">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF87?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>🚩 Flagship</h3>
-
-**Feature Flag & Experimentation Platform**
-
-A platform designed to manage feature releases and experimentation through controlled rollouts.
-
-- Feature flag management.
-- Conditional feature rollouts.
-- PostgreSQL relational data management.
-- Redis and BullMQ asynchronous processing.
-- Backend services built with Node.js and Express.
-
-**Stack:** React · Node.js · Express · PostgreSQL · Redis · BullMQ
-
-<br/>
-
-<a href="https://github.com/Neetworm">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF87?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>🛡️ ToxyClean</h3>
-
-**AI-Powered Content Moderation System**
-
-A browser-based content moderation solution combining machine learning and backend services.
-
-- Chrome extension for content filtering.
-- TF-IDF and Logistic Regression.
-- DistilBERT model integration.
-- Trained on 50,000 comments.
-- Asynchronous Node.js request processing.
-
-**Stack:** Python · NLP · JavaScript · Node.js · DistilBERT
-
-<br/>
-
-<a href="https://github.com/Neetworm">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF87?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>📄 ElevateU+</h3>
-
-**AI-Powered Resume Intelligence Platform**
-
-A full-stack application designed to process resumes and support automated candidate evaluation.
-
-- Resume intake and processing workflows.
-- Modular backend API architecture.
-- Automated scoring workflows.
-- MySQL query optimization.
-
-**Stack:** React · Node.js · Express · MySQL
-
-<br/>
-
-<a href="https://github.com/Neetworm">
-  <img src="https://img.shields.io/badge/VIEW_PROJECT-00FF87?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-</td>
-</tr>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🤖 AI-Native Tools & DevOps</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel&theme=dark" /><br/>
+        <code>Cursor</code> · <code>GitHub Copilot</code> · <code>Claude</code> · <code>CI/CD Pipelines</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ Backend & API Engineering</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" /><br/>
+        <code>Socket.IO (WebSockets)</code> · <code>REST APIs</code> · <code>JWT & OAuth 2.0</code> · <code>Rate Limiting</code>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🗄️ Databases & Caching</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" /><br/>
+        <code>SQL Optimization</code> · <code>Indexing & Joins</code> · <code>Schema Design</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💻 Languages & Frontend</h4>
+      <p>
+        <img src="https://skillicons.dev/icons?i=ts,js,cpp,java,python,react,nextjs,html,css&theme=dark" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
 
-## `04` / PROFESSIONAL EXPERIENCE
+## 🚀 `03` // FEATURED PRODUCTION PROJECTS
 
-### Full-Stack Developer Intern
-
-**Altrusian Computer** · April 2026 – September 2026
-
-- Engineered backend features using React.js, Node.js and Express.js.
-- Developed RESTful APIs and secure database layers.
-- Implemented role-based authorization through custom middleware.
-
-### Software Development Intern
-
-**TALENVY** · May 2025 – July 2025
-
-- Developed and tested REST API lifecycles using Node.js and Express.
-- Debugged cross-stack data flow issues.
-- Contributed to implementation and testing of application features.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">💻 CodeCollab — Real-Time Cloud IDE</h3>
+      <p align="center">
+        <a href="https://collaborative-ide-six.vercel.app/" target="_blank">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-0D9488?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a>
+        <a href="https://github.com/Neetworm/CollaborativeIDE" target="_blank">
+          <img src="https://img.shields.io/badge/GITHUB_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <ul>
+        <li><b>Sub-150ms Sync:</b> Built high-throughput real-time collaboration using <b>Socket.IO</b> rooms and state management.</li>
+        <li><b>Docker Code Execution:</b> Engineered a multi-tenant sandboxed execution engine running untrusted code safely (JS, Python, C++, Java).</li>
+        <li><b>OAuth & Security:</b> JWT & GitHub OAuth 2.0 with account merging and OTP-based recovery.</li>
+        <li><b>Cloud Infrastructure:</b> Integrated <b>MongoDB</b> for file versioning, <b>AWS S3</b>, and automated Render/Vercel CI/CD pipelines.</li>
+      </ul>
+      <p><b>Stack:</b> React · Node.js · Express · Socket.IO · MongoDB · AWS S3 · Docker · JWT</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 ElevateU+ — Resume Intelligence Platform</h3>
+      <p align="center">
+        <a href="https://github.com/Neetworm/ElevateUplus" target="_blank">
+          <img src="https://img.shields.io/badge/GITHUB_REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <ul>
+        <li><b>Automated Resume Scoring:</b> Full-stack platform built with a modular React frontend and Express REST APIs.</li>
+        <li><b>Query Optimization:</b> Accelerated resume lookups by optimizing complex <b>MySQL relational joins & indexing</b>.</li>
+        <li><b>Stateless Auth:</b> Enforced stateless user sessions using secure JWT token authorization patterns.</li>
+      </ul>
+      <p><br/><br/><b>Stack:</b> React.js · Node.js · Express.js · MySQL · JWT</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## `05` / GITHUB STATISTICS
+## 💼 `04` // WORK EXPERIENCE
+
+### **Full Stack Developer Intern** — *Altrusian Computer*
+`Apr 2026 – Sep 2026` · *Remote*
+
+- **Full-Stack Engineering:** Developed end-to-end features using **React.js, Node.js, and Express.js**, delivering modular UI views and RESTful API endpoints.
+- **Backend & Database:** Designed REST APIs with strict input validation, structured error handling, and optimized database queries.
+- **Agile Velocity:** Partnered on core architecture decisions and code reviews within Agile/Scrum sprints.
+
+---
+
+## 📈 `05` // GITHUB STATS & ACTIVITY
 
 <div align="center">
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Neetworm&show_icons=true&theme=transparent&hide_border=true&title_color=00FF87&icon_color=00FF87&text_color=FFFFFF&include_all_commits=true" alt="GitHub Stats" />
-
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Neetworm&theme=transparent&hide_border=true&ring=00FF87&fire=00FF87&currStreakLabel=00FF87&sideLabels=FFFFFF&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Neetworm&show_icons=true&theme=dark&hide_border=true&title_color=5EEAD4&icon_color=5EEAD4&text_color=94A3B8&bg_color=0D1117&include_all_commits=true" alt="Garvit's GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Neetworm&theme=dark&hide_border=true&background=0D1117&ring=0D9488&fire=0D9488&currStreakLabel=5EEAD4&sideLabels=94A3B8&sideNums=FFFFFF&currStreakNum=FFFFFF" alt="Garvit's Streak" />
 
   <br/><br/>
 
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neetworm&layout=compact&theme=transparent&hide_border=true&title_color=00FF87&text_color=FFFFFF" alt="Top Languages" />
-
-</div>
-
----
-
-## `06` / CONTRIBUTION ACTIVITY
-
-<div align="center">
-
+  <!-- SNAKE ANIMATION -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Neetworm/Neetworm/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Neetworm/Neetworm/output/github-contribution-grid-snake.svg" />
-    <img width="100%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake Animation" />
+    <img width="100%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
   </picture>
 
 </div>
@@ -244,16 +166,10 @@ A full-stack application designed to process resumes and support automated candi
 
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=3&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" width="100%" />
 
-  <h3>Building beyond the code.</h3>
+  <p><i>"Engineered for performance. Accelerated by AI."</i></p>
 
-  <p><i>Designing systems. Solving problems. Engineering what comes next.</i></p>
-
-  <img src="https://img.shields.io/badge/BUILT_WITH-CURIOSITY-00FF87?style=for-the-badge&labelColor=0D1117" />
-
-  <br/><br/>
-
-  <sub>Thanks for visiting my profile! ⭐</sub>
+  <sub>Designed & Developed by <b>Garvit Ghai</b></sub>
 
 </div>
