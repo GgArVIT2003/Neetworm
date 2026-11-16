@@ -1,205 +1,189 @@
- <div align="center" id="top">
 
-  <!-- MAIN GRAPHICAL HEADER BANNER -->
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FF87,100:60A5FA&height=220&section=header&text=GARVIT%20GHAI&fontSize=58&fontColor=FFFFFF&fontAlignY=40&desc=Full-Stack%20%7C%20AI-Native%20Engineer%20%7C%20Systems&descSize=16&descAlignY=62&descColor=00FF87&animation=fadeIn" alt="Garvit Ghai Banner" />
+<div align="center" id="top">
 
-  <br/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF87,100:60EFFF&height=180&section=header&text=Garvit%20Ghai&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Building%20Systems%20That%20Scale&descAlignY=60&animation=fadeIn" width="100%" />
 
-  <p align="center">
-    <b>Software Engineer (B.Tech CSE '26)</b> &nbsp;•&nbsp; <b>Ghaziabad, UP, India</b>
-    <br/>
-    🚀 <i>Building high-throughput real-time systems & AI-accelerated web products.</i>
+  <h3>Software Engineer | Full-Stack & AI-Native Developer</h3>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF87&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Building+Real-Time+Systems;Exploring+AI-Native+Products;Turning+Ideas+Into+Scalable+Software" alt="Typing SVG" />
+
+  <p>
+    📍 Ghaziabad, Uttar Pradesh, India · 🎓 B.Tech CSE '26
   </p>
 
-  <!-- SOCIAL LINKS -->
   <a href="mailto:garvitghai880@gmail.com">
-    <img src="https://img.shields.io/badge/Email-garvitghai880%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-00FF87?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/garvit-ghai-80638828a">
-    <img src="https://img.shields.io/badge/LinkedIn-Garvit%20Ghai-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://leetcode.com/u/LuffyD2001/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="https://www.hackerrank.com/garvitghai">
-    <img src="https://img.shields.io/badge/HackerRank-5%E2%AD%90%20Java-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
   </a>
 
   <br/><br/>
 
-  <img src="https://komarev.com/ghpvc/?username=Neetworm&label=PROFILE+VIEWS&color=00FF87&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Neetworm&label=PROFILE+VIEWS&color=00FF87&style=for-the-badge" />
 
 </div>
 
 ---
 
-<!-- QUICK NAVIGATION -->
-
-<div align="center">
-
-  <a href="#quick-summary">ABOUT</a> &nbsp;•&nbsp;
-  <a href="#tech-stack">TECH STACK</a> &nbsp;•&nbsp;
-  <a href="#featured-showcase">PROJECTS</a> &nbsp;•&nbsp;
-  <a href="#experience">EXPERIENCE</a> &nbsp;•&nbsp;
-  <a href="#github-analytics">ANALYTICS</a>
-
-</div>
-
----
-
-<a id="quick-summary"></a>
-
-### ⚡ QUICK SUMMARY
+## 👨‍💻 ABOUT ME
 
 ```yaml
-developer: Garvit Ghai
+name: Garvit Ghai
 role: Full-Stack & AI-Native Software Engineer
-status: Available For Immediate Joining 🟢
-education: B.Tech Computer Science & Engineering @ JUET ('26)
-key_builds:
-  - CodeCollab: Real-Time Collaborative IDE (sub-150ms WebSocket sync)
-  - ElevateU+: Automated Resume Scoring & Analytics System
-stack_focus: Node.js, React, Docker, WebSockets, MongoDB, PostgreSQL, AI Dev Tools
+education: B.Tech Computer Science Engineering (2026)
+availability: Available For Immediate Joining
+
+focus:
+  - Full-Stack Development
+  - Real-Time Collaborative Systems
+  - AI-Powered Applications
+  - Backend Architecture & APIs
+
+featured_work:
+  - CodeCollab: Real-time collaborative cloud IDE
+  - ElevateU+: AI-powered resume intelligence platform
+
+currently_interested_in:
+  - Scalable Backend Systems
+  - Cloud Infrastructure
+  - AI Integration
 ```
 
 ### ⚙️ ENGINEERING FOCUS
 
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h3>⚡</h3>
-      <b>Full-Stack Engineering</b>
-      <p><sub>Building end-to-end web applications, REST APIs and scalable backend services.</sub></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🔄</h3>
-      <b>Real-Time Systems</b>
-      <p><sub>Collaborative applications, WebSocket communication and synchronized state.</sub></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h3>🤖</h3>
-      <b>AI-Native Development</b>
-      <p><sub>Integrating AI-assisted workflows into modern software development.</sub></p>
-    </td>
-  </tr>
-</table>
+| Area | What I Build |
+|---|---|
+| Full-Stack Engineering | End-to-end applications with modern frontend and backend stacks |
+| Real-Time Systems | Collaborative applications using WebSockets and Socket.IO |
+| AI-Native Development | Intelligent applications integrating AI models and APIs |
 
 ---
 
-<a id="tech-stack"></a>
-
-### 🛠️ TECH STACK & AI WORKFLOW
+## 🛠️ TECH STACK
 
 <div align="center">
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **AI-Native & DevOps** | <img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel&theme=dark" /><br/> `Cursor` • `GitHub Copilot` • `Claude` • `CI/CD` |
-| **Backend & APIs** | <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" /><br/> `Socket.IO (WebSockets)` • `REST APIs` • `JWT & OAuth 2.0` |
-| **Databases & Caching** | <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" /><br/> `SQL Optimization` • `Query Indexing` • `Schema Design` |
-| **Languages & Frontend** | <img src="https://skillicons.dev/icons?i=ts,js,cpp,java,python,react,nextjs,html,css&theme=dark" /> |
+**Languages & Frontend**
+
+<img src="https://skillicons.dev/icons?i=ts,js,cpp,java,python,react,nextjs,html,css" />
+
+**Backend & Databases**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mysql,mongodb,redis" />
+
+**Cloud, DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,vercel,postman" />
+
+</div>
+
+**Also familiar with:** Cursor, GitHub Copilot, Claude, CI/CD, Socket.IO, REST APIs, JWT, OAuth.
+
+---
+
+## 🚀 FEATURED PROJECTS
+
+### 1. CodeCollab — Real-Time Collaborative Cloud IDE
+
+A collaborative cloud-based coding environment designed for real-time teamwork.
+
+- Built real-time code synchronization with sub-150ms WebSocket sync.
+- Integrated Docker-based isolated code execution for JavaScript, Python, C++ and Java.
+- Implemented GitHub OAuth, JWT authentication and account merging.
+- Used MongoDB Atlas and AWS S3 for data and file management.
+
+[🌐 Live Demo](https://collaborative-ide-six.vercel.app/) · [📂 Source Code](https://github.com/Neetworm/CollaborativeIDE)
+
+### 2. ElevateU+ — AI-Powered Resume Intelligence
+
+An AI-powered career assistant that helps users evaluate and improve resumes.
+
+- Built a full-stack application using React, Node.js and Express.
+- Integrated AI-powered resume analysis and scoring.
+- Used MySQL with indexed queries for efficient data retrieval.
+- Implemented secure authentication using JWT.
+
+[📂 Source Code](https://github.com/Neetworm/ElevateUplus)
+
+---
+
+## 💼 EXPERIENCE
+
+### Full Stack Developer Intern — Altrusian Computer
+**April 2026 – September 2026 | Remote**
+
+- Developed production-oriented frontend features using React.
+- Built backend services and REST APIs using Node.js and Express.
+- Implemented request validation, error handling and backend logic.
+- Worked on query optimization and application performance.
+- Collaborated in an Agile development environment.
+
+---
+
+## 🏆 GITHUB TROPHIES
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Neetworm&theme=matrix&no-frame=true&no-bg=true&margin-w=8&row=1" width="100%" alt="GitHub Trophies" />
 
 </div>
 
 ---
 
-<a id="featured-showcase"></a>
-
-### 💡 FEATURED SHOWCASE
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💻 CodeCollab IDE</h3>
-      <p align="center"><b>Production Real-Time Cloud Development Platform</b></p>
-      <p align="center">
-        <a href="https://collaborative-ide-six.vercel.app/">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-00FF87?style=for-the-badge&logo=vercel&logoColor=black" />
-        </a>
-        <a href="https://github.com/Neetworm/CollaborativeIDE">
-          <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <ul>
-        <li>⚡ <b>Sub-150ms Sync:</b> Low-latency multi-user code editing powered by Socket.IO rooms.</li>
-        <li>🐳 <b>Docker Isolation:</b> Sandboxed execution engine running untrusted JS, Python, C++, and Java code safely.</li>
-        <li>🔒 <b>Auth & Cloud:</b> OAuth 2.0 account merging, JWT security, MongoDB Atlas, and AWS S3 storage.</li>
-      </ul>
-      <p align="center">
-        <code>React</code> • <code>Node.js</code> • <code>Socket.IO</code> • <code>Docker</code> • <code>AWS S3</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">📄 ElevateU+</h3>
-      <p align="center"><b>Resume Intelligence & Scoring Web App</b></p>
-      <p align="center">
-        <a href="https://github.com/Neetworm/ElevateUplus">
-          <img src="https://img.shields.io/badge/REPO-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <ul>
-        <li>📊 <b>Automated Evaluation:</b> Full-stack platform built with React frontend and Express REST microservices.</li>
-        <li>⚡ <b>DB Optimization:</b> High-speed candidate lookups through indexed MySQL query optimization.</li>
-        <li>🔑 <b>Secure Sessions:</b> Enforced stateless user sessions using JWT authorization tokens.</li>
-      </ul>
-      <br/>
-      <p align="center">
-        <code>React.js</code> • <code>Node.js</code> • <code>Express.js</code> • <code>MySQL</code> • <code>JWT</code>
-      </p>
-    </td>
-  </tr>
-</table>
-
----
-
-<a id="experience"></a>
-
-### 💼 EXPERIENCE
-
-#### 🚀 **Full Stack Developer Intern** — *Altrusian Computer*
-
-`Apr 2026 – Sep 2026` · *Remote*
-
-- Engineered production full-stack features with **React.js, Node.js, and Express.js**.
-- Designed robust REST APIs featuring input validation, error handling, and optimized database queries.
-- Participated in architecture decisions, code reviews, and Agile release cycles.
-
----
-
-<a id="github-analytics"></a>
-
-### 📊 GITHUB ANALYTICS
+## 🔥 GITHUB STREAK
 
 <div align="center">
 
-  <!-- PROFILE DETAILS -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Neetworm&theme=dark&hide_border=true&background=0D1117&ring=00FF87&fire=00FF87&currStreakLabel=00FF87" width="75%" alt="GitHub Streak Stats" />
+
+</div>
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
   <img width="100%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/github_dark/0-profile-details.svg" alt="Profile Details" />
 
   <br/>
 
-  <!-- TOP LANGUAGES BY REPOSITORY -->
   <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/github_dark/1-repos-per-language.svg" alt="Top Languages by Repository" />
 
-  <!-- TOP LANGUAGES BY COMMITS -->
   <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" />
 
   <br/>
 
-  <!-- GITHUB STATS -->
   <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/github_dark/3-stats.svg" alt="GitHub Stats" />
 
-  <!-- PRODUCTIVE TIME -->
   <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/github_dark/4-productive-time.svg" alt="Productive Time" />
 
 </div>
 
 ---
 
-### 🐍 CONTRIBUTION SNAKE
+## 📈 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/Neetworm/Neetworm/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neetworm&bg_color=0d1117&color=00FF87&line=00FF87&point=FFFFFF&area=true&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Neetworm/Neetworm/output/github-contribution-grid-snake-dark.svg" alt="Animated Contribution Snake" width="100%" />
 
 </div>
 
@@ -207,20 +191,16 @@ stack_focus: Node.js, React, Docker, WebSockets, MongoDB, PostgreSQL, AI Dev Too
 
 <div align="center">
 
-  <h3>🤝 LET'S CONNECT & BUILD SOMETHING GREAT</h3>
+### 💡 ENGINEERED FOR SPEED. BUILT TO SCALE.
 
-  <a href="mailto:garvitghai880@gmail.com">
-    <img src="https://img.shields.io/badge/OPEN_TO_OPPORTUNITIES-00FF87?style=for-the-badge&logo=gmail&logoColor=black" alt="Open to Opportunities" />
-  </a>
+**Let's connect and build something great.**
 
-  <br/><br/>
+<a href="#top">
+  <img src="https://img.shields.io/badge/⬆️%20BACK%20TO%20TOP-00FF87?style=for-the-badge&logoColor=black" />
+</a>
 
-  <p><i>"Engineered for speed. Built to scale."</i></p>
+<br/><br/>
 
-  <sub>Crafted with ☕ by <b>Garvit Ghai</b></sub>
-
-  <br/><br/>
-
-  <a href="#top">⬆ Back to Top</a>
+<sub>Designed & Built by Garvit Ghai · Keep Building. Keep Shipping. 🚀</sub>
 
 </div>
