@@ -125,24 +125,32 @@ stack_focus: Node.js, React, Docker, WebSockets, MongoDB, PostgreSQL, AI Dev Too
 ---
 
 
-
-
-
+---
 
 ### 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-  <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/github_dark/3-stats.svg" alt="GitHub Stats" />
+  <!-- 1. PROFILE DETAILS - FULL WIDTH -->
+  <img width="100%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/profile-summary-card-output/github_dark/5-profile-details.svg" alt="Profile Details" />
 
-  <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/github_dark/1-repos-per-language.svg" alt="Top Languages" />
+  <br/>
 
-  <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/github_dark/5-profile-details.svg" alt="Profile Details" />
+  <!-- 2. TOP LANGUAGES BY REPOSITORY -->
+  <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/profile-summary-card-output/github_dark/1-repos-per-language.svg" alt="Top Languages by Repository" />
 
-  <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/github_dark/4-productive-time.svg" alt="Productive Time" />
+  <!-- 3. TOP LANGUAGES BY COMMITS -->
+  <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/profile-summary-card-output/github_dark/2-most-commit-language.svg" alt="Top Languages by Commit" />
+
+  <br/>
+
+  <!-- 4. GITHUB STATS -->
+  <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/profile-summary-card-output/github_dark/3-stats.svg" alt="GitHub Stats" />
+
+  <!-- 5. PRODUCTIVE TIME -->
+  <img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/profile-summary-card-output/github_dark/4-productive-time.svg" alt="Productive Time" />
 
 </div>
-
 
 
 ---
