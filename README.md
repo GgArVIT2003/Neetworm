@@ -126,7 +126,7 @@ An AI-powered career assistant that helps users evaluate and improve resumes.
 - Collaborated in an Agile development environment.
 
 ---
-
+<!--
 ## 🏆 GITHUB TROPHIES
 
 <div align="center">
@@ -144,7 +144,7 @@ An AI-powered career assistant that helps users evaluate and improve resumes.
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Neetworm&theme=dark&hide_border=true&background=0D1117&ring=00FF87&fire=00FF87&currStreakLabel=00FF87" width="75%" alt="GitHub Streak Stats" />
 
 </div>
-
+-->
 ---
 
 ## 📊 GITHUB ANALYTICS
