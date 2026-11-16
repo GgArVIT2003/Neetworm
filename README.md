@@ -125,15 +125,19 @@ stack_focus: Node.js, React, Docker, WebSockets, MongoDB, PostgreSQL, AI Dev Too
 ---
 
 
+
 ### 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Neetworm&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/cards/profile-details.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/cards/stats.svg" />
 
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Neetworm&layout=compact&theme=tokyonight" alt="Top Languages" />
+<img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/cards/top-languages.svg" />
+<img width="49%" src="https://raw.githubusercontent.com/Neetworm/Neetworm/profile-summary/cards/productive-time.svg" />
 
 </div>
+
 
 ---
 
