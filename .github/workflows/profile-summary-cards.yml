@@ -15,17 +15,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate cards
+      - name: Generate Profile Summary Cards
         uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: Neetworm
-
-      - name: Push cards
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: profile-summary
-          build_dir: profile-summary-card-output
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          BRANCH_NAME: profile-summary
+          THEME: github_dark
+          AUTO_PUSH: true
