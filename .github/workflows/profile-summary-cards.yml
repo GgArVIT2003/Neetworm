@@ -1,0 +1,31 @@
+
+name: Generate Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: Neetworm
+
+      - name: Push cards
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: profile-summary
+          build_dir: profile-summary-card-output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
